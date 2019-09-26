@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Sam's github blog
 
-I'm glad you are here. I plan to talk about ...
+Write-ups and explanations of some coding projects I have worked on.
+
+Currently building...
