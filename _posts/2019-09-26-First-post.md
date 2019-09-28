@@ -3,6 +3,6 @@ title: "First Jekyll blog post"
 date: 2019-09-26
 ---
 
-# First Jekyll blog post
+# Post created for github training
 
-I will add soemthing more inspiring later...
+This blog will contain links to projects I am currently working on.
